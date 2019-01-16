@@ -1,0 +1,154 @@
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+E:\COP 4005\Samples - Spring 2015\U01\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+C:\Users\Admin\Documents\GitHub\MemberManage\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+C:\Users\jean\Downloads\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmPayment.resources
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmNameSearch.resources
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmPayment.resources
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+C:\Users\Admin\Desktop\Final Build\WINDOWS PROJECT\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmNameSearch.resources
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmPayment.resources
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+\\psf\Home\Desktop\WINDOWS PAUL\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmNameSearch.resources
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmPayment.resources
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+C:\Users\Admin\Desktop\BULGARIA\Project_Final_Vito_Paul\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmLogin.resources
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmLogin.resources
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmNameSearch.resources
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmPayment.resources
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+\\psf\Home\Desktop\Project_Final_Vito_Paul_HalfJavier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmLogin.resources
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmNameSearch.resources
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmPayment.resources
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+C:\Users\Admin\Desktop\Final Working Form\Project_Final_Vito_Paul_Javier\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmLogin.resources
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmNameSearch.resources
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmPayment.resources
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+C:\Users\Admin\Desktop\Group 2 U01 Final Draft\Project_Final_Vito_Paul_Javier_Jean\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe.config
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\bin\Debug\VbExerClub.exe
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\bin\Debug\VbExerClub.pdb
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\bin\Debug\VbExerClub.xml
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbprojAssemblyReference.cache
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmLogin.resources
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMember.resources
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmNameSearch.resources
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmMain.resources
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmPayment.resources
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.frmProgram.resources
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.Resources.resources
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.GenerateResource.cache
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.vbproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.exe
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.xml
+C:\Users\Paul\Desktop\submission\ExerciseClub\VbExerClub\VbExerClub\obj\Debug\VbExerClub.pdb
